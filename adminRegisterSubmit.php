@@ -1,5 +1,5 @@
   <?php
-  session_stop();
+  session_stop(); no stop
 		include 'config.php';
 		include 'connection.php';
 	
